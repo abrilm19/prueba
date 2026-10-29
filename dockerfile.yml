@@ -1,6 +1,0 @@
-docker compose
-services 
-  web
-  image: nginx:lastest
-  ports:
-     8080:80
